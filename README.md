@@ -7,4 +7,5 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 ## Session-Übersicht
 
 1. 23.04.2025: Start in ToD ![Link](Sessions/01_23-04-25.md)
+2. 28.04.2025: Schlacht in Greenist fortgeführt ![Link](Sessions/02_28-04-25.md)
 
