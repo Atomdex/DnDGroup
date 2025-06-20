@@ -7,3 +7,4 @@ Rasse: Mensch
 
 - Scheint ebenfalls nach einem "Gleichgewicht" in der
   Welt zu suchen
+- Hat sein Haus verloren
