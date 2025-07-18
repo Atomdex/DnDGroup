@@ -2,4 +2,4 @@
 
 ## Itharion Diviner
 
-Aktuelle prediction Würfe: 2 und 5
+Aktuelle prediction Würfe: 1 (used) und 11 (used)
