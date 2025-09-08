@@ -12,6 +12,8 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 4. 20.06.2025: Kultistenlager ![Link](Sessions/04_20-06-25.md)
 5. 05.07.2025: Kultustenlager 2 ![Link](Sessions/05_05-07-25.md)
 6. 18.07.2025: Elturell ![Link](Sessions/06_18-07-25.md)
+7. 24.07.2025: Auf dem Weg nach Baldurs Gate 1 ![Link](Sessions/07_24-07-25.md)
+8. 08.09.2025: Auf dem Weg nach Baldurs Gate 2 ![Link](Sessions/08_08-09-25.md)
 
 ## Sonstige Links
 
