@@ -14,6 +14,7 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 6. 18.07.2025: Elturell ![Link](Sessions/06_18-07-25.md)
 7. 24.07.2025: Auf dem Weg nach Baldurs Gate 1 ![Link](Sessions/07_24-07-25.md)
 8. 08.09.2025: Auf dem Weg nach Baldurs Gate 2 ![Link](Sessions/08_08-09-25.md)
+9. 15.09.2025: Im Hafen von Rivington ![Link](Sessions/09_15-09-25.md)
 
 ## Sonstige Links
 
