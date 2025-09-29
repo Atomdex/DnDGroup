@@ -15,7 +15,8 @@
     hohes Maß an Stolz und Gier in sich.
 - Es gibt Drachen, die selbst Gottheiten waren (bspw. Tiamat, Göttin der Gier, war ein
     fünfköpfiger chromatischer Drache)
-
+- Schwarze Drachen werden auch Schädeldrachen genannt und sind die grausamsten von allen chromatischen Drachen
+    - Speien Säure
 ## Tiamat - Göttin der Gier
 
 - Tiamat und ihre Anhänger wüteten im tausendjährigen Krieg in Faerun
