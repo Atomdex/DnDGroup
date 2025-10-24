@@ -16,6 +16,7 @@ Link zur DnD Beyond Campain [hier](https://www.dndbeyond.com/campaigns/6524535).
 8. 08.09.2025: Auf dem Weg nach Baldurs Gate 2 ![Link](Sessions/08_08-09-25.md)
 9. 15.09.2025: Im Hafen von Rivington ![Link](Sessions/09_15-09-25.md)
 10. 29.09.2025: Black Gate in Baldurs Gate ![Link](Session/10_29-09-25.md)
+11. 24.10.2025: Black Gate in Baldurs Gate ![Link](Session/11_24-10-25.md)
 
 ## Sonstige Links
 
